@@ -1,6 +1,5 @@
 # Name : Huraimah Fatima
 # Email : huraimah@uoguelph.ca
-# SID: 1305776
 
 CC = gcc
 CFLAGS = -Wall -std=c11 -g -fPIC
